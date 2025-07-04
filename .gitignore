@@ -1,5 +1,5 @@
 # Hugo build output
-/public/
+myblog/public/
 
 # Hugo resource cache (if used)
 resources/

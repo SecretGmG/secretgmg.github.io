@@ -4,5 +4,4 @@ title: "Home"
 
 # Hello!
 
-Welcome to my site
-dummy change.
+Welcome to my site.
