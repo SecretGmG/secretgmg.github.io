@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://secretgmg.github.io/myblog/sitemap.xml
