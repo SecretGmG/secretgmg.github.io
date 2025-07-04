@@ -1,12 +1,19 @@
 # Hugo build output
 myblog/public/
 
-# Hugo resource cache (if used)
+# Hugo cache and lock files
 resources/
+myblog/.hugo_build.lock
 
 # VS Code settings (optional)
 .vscode/
 
-# OS files
+# OS junk
 .DS_Store
 Thumbs.db
+
+# Node modules if you use npm or yarn (just in case)
+node_modules/
+
+# Log files
+*.log
