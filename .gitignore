@@ -1,0 +1,12 @@
+# Hugo build output
+/public/
+
+# Hugo resource cache (if used)
+resources/
+
+# VS Code settings (optional)
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

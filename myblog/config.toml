@@ -1,0 +1,14 @@
+baseURL = "https://secretgmg.github.io/myblog/"
+languageCode = "en-us"
+title = "My Interactive Blog"
+theme = "PaperMod"
+
+# Optional but recommended:
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[minify]
+  disableXML = true
+  minifyOutput = true
