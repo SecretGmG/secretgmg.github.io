@@ -13,7 +13,11 @@ jobs:
         with:
           submodules: true  # Important for themes!
           fetch-depth: 0
-
+      - name: Install Hugo
+        run: |
+          wget https://github.com/gohugoio/hugo/releases/download/v0.127.0/hugo_extended_0.127.0_Linux-64bit.tar.gz
+          tar -xzf hugo_extended_0.127.0_Linux-64bit.tar.gz
+          sudo mv hugo /usr/local/bin/
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
