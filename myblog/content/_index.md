@@ -13,4 +13,4 @@ Welcome to my site.
 - Fractal explorer
 - Optimal Hayday
 
-[Play the Nim Game here](/myblog/nim_game/nim.html)
+[Play the Nim Game here](/nim_game/nim.html)
