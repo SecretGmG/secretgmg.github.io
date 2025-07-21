@@ -12,3 +12,5 @@ Welcome to my site.
 - Quantum tick tack toe
 - Fractal explorer
 - Optimal Hayday
+
+[Play the Nim Game here](/myblog/nim_game/nim.html)
